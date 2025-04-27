@@ -1,1 +1,1 @@
-# omni-doc
+# This project is to migrate the ui of omni-doctor from php to react js
